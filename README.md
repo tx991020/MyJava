@@ -3,3 +3,4 @@
 - SpringBoot Seed
 - SpringCloud
 - Dubbo
+- Netty
